@@ -1,0 +1,108 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #000000;
+}
+
+
+/******* THE WHOLE HEADER PART *********/
+.headerPart {
+    padding-top: 10px;
+}
+
+.headerEdit {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    padding-bottom: 0px;
+    color: white;
+
+}
+
+.headerImageEdit {
+    margin: 20px 10px 0px 0px;
+}
+
+
+.affDivEdit {
+	
+}
+
+
+#affiliateNote {
+	font-family: 'Montserrat', sans-serif;
+    color: white;
+    padding-bottom: 10px;
+}
+/***************************************/
+.containerEdit {
+	/* something.... */
+	padding-top: 0px;
+}
+
+.sectionEdit {
+    text-align: center;
+}
+
+.featureEdit {
+    padding: 20px 20px 20px 20px;
+    background-color: #ffffff;
+    border-radius: 2%;
+    box-shadow: 2px;
+}
+
+.inputEdit {
+    margin-bottom: 10px;
+}
+
+#inputPassword {
+    margin-bottom: 10px;
+}
+
+
+
+/**************FOOTER**********/
+.theDottedEdit {
+    border-style: none;
+    border-top: 1px dotted white;
+    border-width: 8px;
+    margin: 0 auto;
+    width: 6rem;
+    margin-top: 50px;
+}
+
+.copyright {
+    margin-bottom: 0;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding-bottom: 27px;
+    padding-top: 10px;
+}
+
+
+/* *****************************************/
+.responsiveEdit {
+	max-height: 500px;
+}
+
+.tbodyEdit {
+	/*background: linear-gradient(90deg, rgba(238, 174, 202, 1) 0%, rgba(209, 50, 150, 1) 0%); */
+	/*background: rgb(128,0,128);*/
+	background: white;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	color: black;
+}
+
+.nonButtonEdit {
+	margin-top: 7px;
+	margin-bottom: 0;
+}
+
+.contactLogo {
+    padding-right: 10px;
+    height: 20px;
+}
